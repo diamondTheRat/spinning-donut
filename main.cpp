@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <cmath>
 #include <windows.h>
-#define s 12.0
+#define s 12.0 // this is the size of the donut
                                     //
                           typedef int I; typedef
                     double P;using namespace std;const
